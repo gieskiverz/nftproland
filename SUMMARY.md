@@ -13,6 +13,5 @@
   * [NFT Marketplace](nft-proland-integration/nft-marketplace.md)
   * [Staking Platform](nft-proland-integration/staking-platform.md)
 * [About Us – NFT-Proland](about-us-nft-proland.md)
-* [Founder of the Ecosystem – Xhyre](founder-of-the-ecosystem-xhyre.md)
 * [NPL Token Allocation & Distribution](npl-token-allocation-and-distribution.md)
 * [Use of Funds](use-of-funds.md)
