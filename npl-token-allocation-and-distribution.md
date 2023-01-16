@@ -22,7 +22,7 @@ On BEP-20, only 15,000,000 NPL Tokens (15 million NPL) were minted.
 
 750,000 NPL allocated for marketing activities, equivalent to 5%
 
-11,250,000 NPL allocated for next development, equivalent to 75% (Locked for 24 months post public sale, and will be vested 1% on the 13th months onward)
+11,250,000 NPL allocated for next development, equivalent to 75% (Locked for 24 months post public sale, and will be vested 1% on the 25th months onward)
 
 </details>
 
