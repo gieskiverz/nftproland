@@ -12,4 +12,4 @@ Instagram: https://www.instagram.com/nftproland/
 
 Discord: https://discord.gg/wmWXHkFZ
 
-Linkedin: [https://www.linkedin.com/company/nft-proland/](https://www.linkedin.com/company/nft-proland/)
+Linkedin: https://www.linkedin.com/company/nft-proland/
