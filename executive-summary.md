@@ -12,16 +12,11 @@ BEP-20 is a BNB Smart Chain (BSC) token standard that extends ERC-20, the most c
 
 By inviting local and global communities, NFT-Proland introduces real estate asset-based NFT trading. NFT-Proland engages attractive game and prize methods, allowing crypto players who are already widely dispersed to gradually become familiar with NFT.
 
-NFT-Proland was formed specifically in Q3 2022 under the umbrella of Xhyre, a digital platform company formed in 2019 and registered on July 21, 2021 with the following details:
+NFT-Proland was formed in Q4 2022 which had corporatized under PT. Divine Aset Digital on January 2023, and established a joint partnership with Xhyre Ltd, a digital platform company formed in 2019 and registered on July 21, 2021 with the following details:
 
-London IP Ltd, 100 High Street, Milford On Sea, Hampshire, SO41 0QE
+* London IP Ltd, 100 High Street, Milford On Sea, Hampshire, SO41 0QE
+* Patent Application Number 2110023.5
+* Ref Number J16018/UK/Mansur
+* Subsidiary of: Cityscape International Ltd
 
-Patent Application Number 2110023.5
-
-Ref Number J16018/UK/Mansur
-
-Subsidiary of: Cityscape International Ltd
-
-&#x20;
-
-Xhyre was created specifically to be the premier blockchain platform that will create an integrated ecosystem. Xhyre initiated NFT-Proland in order to establish a strong community foundation to build its masterplan, which is to build a Mainnet public network with the theme "Bridge between the Digital World and the Real World."
+Xhyre was created specifically to be the premier blockchain platform that will create an integrated ecosystem. Xhyre initiated NFT-Proland in order to establish a strong community foundation to build its masterplan, which is to build a Main net public network with the theme "Bridge between the Digital World and the Real World."

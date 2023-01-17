@@ -15,3 +15,5 @@
 * [About Us – NFT-Proland](about-us-nft-proland.md)
 * [NPL Token Allocation & Distribution](npl-token-allocation-and-distribution.md)
 * [Use of Funds](use-of-funds.md)
+* [Key Partners](key-partners.md)
+* [Education Program & Customer Care Platform](education-program-and-customer-care-platform.md)

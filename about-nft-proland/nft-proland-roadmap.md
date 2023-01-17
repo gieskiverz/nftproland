@@ -10,15 +10,15 @@ So far, the developers have planned what expectations NFT-Proland will face. At 
 
 #### Q4 2022 – Token Sale
 
-We are selling our tokens in a pre-sale and a public sale. In February 2023, we intend to make the NPL Token available on our first exchange on PancakeSwap for the Public Sale.
+We are selling our tokens in a private sale and a public sale. In February 2023, we intend to make the NPL Token available on our first exchange on PancakeSwap for the Public Sale.
 
 #### Q4 2022 – Q1 2023 – Pre–Sale Token
 
-We will sell up to 35% of the total Token supply in pre-sales. Some of the tokens will be made available online. Online distribution will take place on the PinkSale platform, while offline distribution will take place through community roadshows. Offline pre-sale sales have an appealing prize system, known as the Sales Commission. We settle commissions to NPL token holders who bring additional buyers, which begin at 10% and increase based on how many buyers bring their community to buy NPL tokens. The commission is transferred directly to the recipient's wallet in the form of BUSD. This commission system is only in effect until the token supply is exceeded or until we release tokens on PancakeSwap.
+We will sell up to 10% of the total Token supply in private sales. Private Sale available through offline distribution will take place through community roadshows.
 
 #### Q1 2023 – Public Sale Token
 
-We will continue the Public Sale stage by issuing NPL Tokens on PancakeSwap. At this time, we will charge a 5% transaction tax on sales and purchases, with 2% going to system development and the remaining 3% going directly to token holders (who have a minimum of 100 NPL). Every hour, we reward buyers based on the volume of transactions that have occurred. Every NPL Token owner who has received this reward can reap a variety of benefits. We will exclude the Wallet Developer from the hourly Reward System distribution so that token holders can receive the maximum reward results. This incentive is available to all NPL Token holders who conduct transactions on PancakeSwap.
+We will continue the Public Sale stage by issuing NPL Tokens on PancakeSwap. At this time, we will charge a 5% transaction tax on sales and purchases, with 3% going to system development and the remaining 2% going directly to token holders as an Auto Token Staking (who have a minimum of 100 NPL). Every hour, we reward buyers based on the volume of transactions that have occurred. Every NPL Token owner who has received this reward can reap a variety of benefits. We will exclude the Wallet Developer from the hourly Reward System distribution so that token holders can receive the maximum reward results. This incentive is available to all NPL Token holders who conduct transactions on PancakeSwap.
 
 </details>
 
@@ -28,15 +28,15 @@ We will continue the Public Sale stage by issuing NPL Tokens on PancakeSwap. At 
 
 #### **Q1 2023 – Gatcha System NFT Sales**
 
-We continue to build the Gatcha system NFT platform. By purchasing NPL Tokens during the Pre-sale and Public Sale stages, you can immediately use these tokens to play the Gatcha system and receive NFT, where you can win attractive prizes if you collect all of the images.
+We continue to build the Gamification Mechanism NFT platform. By purchasing NPL Tokens during the Private Sale and Public Sale stages, you can immediately use these tokens to play the Gamification Mechanism and receive NFT, where you can win attractive prizes.
 
 #### **Q1 2023 – NFT Staking**
 
-We will introduce the NFT Staking system with the formation of a community of NFT owners in NFT-Proland. NFT owners who join this system will receive a staking reward of 10% per month of the total value of NFT staked over a specified time period. NFT owners who can invite their network to do NFT staking will be able to earn a sales commission starting at 10%.
+We will introduce the NFT Staking system with the formation of a community of NFT owners in NFT-Proland. NFT owners who join this system will receive a staking reward of 0.2% up to 0.4% per day of the total value of NFT staked over a specified time period. NFT owners who can refer to their community to do NFT staking will be able to earn a reward.
 
 #### **Q2 2023 – Xhyre NFT Marketplace**
 
-The Xhyre NFT marketplace will be established to allow NFT holdings in NFT-Proland to be exchanged for NFTs with a real estate asset base. Buyers can feel the increase in NFT valuation because every NFT released on Xhyre is an NFT with a real estate asset base, so the NFT value is lower and will never reach zero.
+The Xhyre NFT marketplace will be established to allow NFT holdings in NFT-Proland to be exchanged for NFTs with a real estate asset base. Buyers can feel the increase in NFT valuation because every NFT released on Xhyre is an NFT with a real estate asset base, so the NFT base valuation will follow the value of the real asset.
 
 #### **Q2 2023 – Rental Marketplace**s
 
@@ -44,7 +44,7 @@ We will launch a digital rental platform where you will be able to rent all unit
 
 #### **Q2 2023 – Q4 2023 – CEX Release**
 
-NPL tokens will be available on local and international exchanges including CoinGecko, Coin Tiger, Bkex, HOTBIT, BitForex, Indodax, Binance, Mexc, KuCoin, Coinbase, and others. We hope to be able to list NPL Tokens on the top 100 CEX and DEX in the world.
+NPL tokens will be available on local and international exchanges including Coin Tiger, Bkex, HOTBIT, BitForex, Indodax, Binance, Mexc, KuCoin, Coinbase, and others. We hope to be able to list NPL Tokens on the top 20 CEX and DEX in the world.
 
 </details>
 
